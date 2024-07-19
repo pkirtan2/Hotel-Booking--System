@@ -44,6 +44,7 @@ Password : 1234
 Welcome to the detailed overview of my internship journey at Prodigy Infotech. This document outlines the daily tasks, topics covered, and projects completed during the internship from 15th May to 15th June 2024.
 
 ### Week 1
+```sh
 ### Day 1: 15/05/2024 (Wednesday)
 Topic: Introduction to Company and Internship Plan
 Details: Introduction to the company, its vision, and an overview of the internship plan.
@@ -63,8 +64,9 @@ Details: Learned how to interact with the DOM using JavaScript.
 ### Day 5: 19/05/2024 (Tuesday)
 Topic: Introduction to Bootstrap
 Details: Discussed Bootstrap basics for responsive design and UI components.
-
+```
 ### Week 2
+```sh
 ### Day 6: 22/05/2024 (Wednesday)
 Topic: Advanced JavaScript Concepts
 Details: Focused on functions, events, and error handling.
@@ -84,8 +86,9 @@ Details: Learned about the Bootstrap grid system and custom layouts.
 ### Day 10: 26/05/2024 (Tuesday)
 Topic: JavaScript and AJAX
 Details: Implemented AJAX calls for dynamic page updates without reloading.
-
+```
 ### Week 3
+```sh
 ### Day 11: 29/05/2024 (Wednesday)
 Project: Responsive Landing Page
 Details: Created a fully responsive landing page using HTML, CSS, and Bootstrap.
@@ -105,8 +108,9 @@ Details: Completed development and testing of the stopwatch application.
 ### Day 15: 02/06/2024 (Sunday)
 Project: Tic-Tac-Toe Web Application
 Details: Started developing a Tic-Tac-Toe game using HTML, CSS, and JavaScript.
-
+```
 ### Week 4
+```sh
 ### Day 16: 05/06/2024 (Wednesday)
 Project: Tic-Tac-Toe Web Application
 Details: Continued development and testing of the Tic-Tac-Toe game.
@@ -126,8 +130,9 @@ Details: Continued development of the personal portfolio website.
 ### Day 20: 09/06/2024 (Sunday)
 Project: Personal Portfolio Website
 Details: Completed and tested the personal portfolio website.
-
+```
 ### Week 5
+```sh
 Day 21: 12/06/2024 (Wednesday)
 Project: Hotel Management System
 Details: Started developing a hotel management system using HTML, CSS, JavaScript, PHP, and MySQL.
@@ -143,8 +148,9 @@ Details: Completed development and testing of the hotel management system.
 ### Day 24: 15/06/2024 (Saturday)
 Project: Weather App
 Details: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
-
+```
 ### Project Details
+```sh
 Responsive Landing Page
 Description: Created a fully responsive landing page using HTML, CSS, and Bootstrap.
 
@@ -162,10 +168,11 @@ Description: Developed a hotel management system for managing bookings, customer
 
 ### Weather App
 Description: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
-
+```
 ### Conclusion
+```sh
 This internship provided a comprehensive understanding of developing web applications using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and React. The experience gained through building various web applications was invaluable in enhancing my skills and practical knowledge.
-
+```
 
 
 
