@@ -46,6 +46,7 @@ Welcome to the detailed overview of my internship journey at Prodigy Infotech. T
 ### Week 1
 ### Day 1: 15/05/2024 (Wednesday)
 Topic: Introduction to Company and Internship Plan
+
 Details: Introduction to the company, its vision, and an overview of the internship plan.
 
 ### Day 2: 16/05/2024 (Thursday)
