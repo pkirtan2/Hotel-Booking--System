@@ -40,6 +40,7 @@ Password : 1234
 ```
 
 ### Internship Journey at Prodigy Infotech
+_____________________________________________________________________________________________________________________________________________________________________________
 ### Overview
 Welcome to the detailed overview of my internship journey at Prodigy Infotech. This document outlines the daily tasks, topics covered, and projects completed during the internship from 15th May to 15th June 2024.
 
