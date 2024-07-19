@@ -44,8 +44,6 @@ Password : 1234
 Welcome to the detailed overview of my internship journey at Prodigy Infotech. This document outlines the daily tasks, topics covered, and projects completed during the internship from 15th May to 15th June 2024.
 
 ### Week 1
-
-
 ### Day 1: 15/05/2024 (Wednesday)
 Topic: Introduction to Company and Internship Plan
 Details: Introduction to the company, its vision, and an overview of the internship plan.
@@ -113,8 +111,6 @@ Project: Tic-Tac-Toe Web Application
 Details: Started developing a Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
 ### Week 4
-
-
 ### Day 16: 05/06/2024 (Wednesday)
 Project: Tic-Tac-Toe Web Application
 Details: Continued development and testing of the Tic-Tac-Toe game.
@@ -136,8 +132,6 @@ Project: Personal Portfolio Website
 Details: Completed and tested the personal portfolio website.
 
 ### Week 5
-
-
 Day 21: 12/06/2024 (Wednesday)
 Project: Hotel Management System
 Details: Started developing a hotel management system using HTML, CSS, JavaScript, PHP, and MySQL.
@@ -155,8 +149,6 @@ Project: Weather App
 Details: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
 
 ### Project Details
-
-
 Responsive Landing Page
 Description: Created a fully responsive landing page using HTML, CSS, and Bootstrap.
 
@@ -176,8 +168,6 @@ Description: Developed a hotel management system for managing bookings, customer
 Description: Created a weather application that fetches real-time data from a weather API, using HTML, CSS, JavaScript, and React.
 
 ### Conclusion
-
-
 This internship provided a comprehensive understanding of developing web applications using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and React. The experience gained through building various web applications was invaluable in enhancing my skills and practical knowledge.
 
 
